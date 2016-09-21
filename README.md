@@ -28,7 +28,7 @@ catch(Exception ex){
 ## 如何读取
 1. 获取所有异常所发生的日期
 ```
-Ex.WebLog.Read_ExAllPath()
+Ex.WebLog.Read_ExAllPath();
 ```
 2. 获取指定日期的异常集合
 ```
