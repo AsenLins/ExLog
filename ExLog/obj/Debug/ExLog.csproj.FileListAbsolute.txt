@@ -1,0 +1,4 @@
+E:\C#Project\ExLog\ExLog\ExLog\bin\Debug\ExLog.dll
+E:\C#Project\ExLog\ExLog\ExLog\bin\Debug\ExLog.pdb
+E:\C#Project\ExLog\ExLog\ExLog\obj\Debug\ExLog.dll
+E:\C#Project\ExLog\ExLog\ExLog\obj\Debug\ExLog.pdb
